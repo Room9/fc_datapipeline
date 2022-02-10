@@ -7,6 +7,7 @@
 * Spark 
 * Kafka
 * Scala 언어
+* ELK 
 * AWS 환경 - EMR, Zeppeline, Ganglia, Glue
 
 ## 더 공부할 것
