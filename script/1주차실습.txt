@@ -133,7 +133,6 @@ codec => rubydebug
 #실행한다.  - 화면에 twitter 정보가 print out 되는것을 확인한다. 
 $ logstash -f producer_test.conf
 
-p57 
 # twitter 정보를 kafka topic twitter에 보낸다. 
 # 확인 방법 : kafka server에 consumer console에 twitter 정보가 나오는것을 확인한다.
 # ip정보는 kafka private ip address 
